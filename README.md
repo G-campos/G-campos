@@ -1,8 +1,16 @@
-### Hi there 👋
+## 👩‍💻 Who am I 👩‍💻
+Hi! My name is Gabriel. I am a Computer Engineering student at [UniCesumar](https://www.unicesumar.edu.br/), front-end developer at [Eulabs](https://www.eulabs.com.br/).
+
+I'm also an enthusiast maker(diy) and garage designers (even though I don't have a garage lol).
+
+## 🗂️ What you can find on my Github 🗂️
+
+👩‍💻 Mainly Frontend and
+<!-- 🤖 Projects with Arduino and ESP8266 -->
+🖥️ Lots, lots of random codes
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-campos&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-campos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <b>
 Contacts:
@@ -13,6 +21,8 @@ Contacts:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabodecampos+github@gmail.com)
 [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](Discord@Campos#1492)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-campos)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-campos&show_icons=true&theme=dracula)
 
 <b>
 known languages;
@@ -78,19 +88,6 @@ DB:
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-<b>
-Pins:
-</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=challenge-escribo-logic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=curso-golang&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=themal-printer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=spotifake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=pokedex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br>
 
 
 
