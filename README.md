@@ -73,11 +73,12 @@ DB:
 Pins:
 </b>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=challenge-escribo-logic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=curso-golang&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=themal-printer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=spotifake&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=pokedex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-campos&repo=challenge-escribo-logic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
