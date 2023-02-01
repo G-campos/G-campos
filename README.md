@@ -1,5 +1,7 @@
 ## 👩‍💻 Who am I 👩‍💻
-Hi! My name is Gabriel. I am a Computer Engineering student at [UniCesumar](https://www.unicesumar.edu.br/), front-end developer at [Eulabs](https://www.eulabs.com.br/).
+Hi! My name is Gabriel.
+
+I am Web Developer.
 
 I'm also an enthusiast maker(diy) and garage designers (even though I don't have a garage lol).
 
