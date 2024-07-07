@@ -5,6 +5,7 @@ Hi! I'm Gabriel, a Web Developer from Caxias do Sul, Brazil. I'm passionate abou
 ## 🗂️ What you can find on my Github 🗂️
 
 👨‍💻 Mostly Frontend projects followed by Backend projects
+
 🖥️ Lots of random and experimental code, including IoT projects with C++ for Arduino and ESP8266/ESP32
 
 ## 💼 Professional Experience 💼
