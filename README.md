@@ -10,7 +10,8 @@ Hi! I'm Gabriel, a Web Developer from Caxias do Sul, Brazil. I'm passionate abou
 
 ## 💼 Professional Experience 💼
 
-- **Perfilline Componentes Metalicos**: IT System Administrator (Feb 2023 - Present)
+- **Inova Sistemas Eletronicos**: Systems Developer Analyst (Out 2024 - Present)
+- **Perfilline Componentes Metalicos**: IT System Administrator (Feb 2023 - Out 2024)
 - **Eulabs**: Frontend Developer (June 2021 - Nov 2022)
 - **Flieger Software**: Web Developer (Jan 2021 - Apr 2021)
 - **Fundação Casa do Estudante Universitário do Paraná**: IT Assistant (Aug 2019 - Oct 2020)
