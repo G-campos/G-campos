@@ -70,5 +70,3 @@ Hi! I'm Gabriel, a Web Developer from Caxias do Sul, Brazil. I'm passionate abou
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5545999997432&text=Hi%2C%20I%20saw%20your%20profile%20on%20github%2C%20can%20we%20talk%3F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabodecampos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-campos)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-campos&show_icons=true&theme=dracula)
